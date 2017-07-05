@@ -25,7 +25,7 @@ Median HH Income: $112,947
 
 Canvas at 3 Stations: World Trade Center, Chambers St, Cortlandt St
 
-### Area 2: FiDi
+#### Area 2: FiDi
 
 Median HH Income: $101,868
 
