@@ -18,12 +18,15 @@ Leverage MTA subway data to determine high traffic areas: Evaluate subway entrie
 ### Transit Concentration
 ![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/transit_concentraction.png)
 
-### Rush Hour Heatmap
+### Rush Hour
+
+#### TriBeCa: World Trade Center, Chambers St, Cortlandt St
 ![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/TriBeCa.png)
 
+#### FiDi: Wall St, Bowling Green
 ![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/FiDi.png)
 
-## Results)
+## Results
 
 #### Area 1: TriBeCa
 
