@@ -4,7 +4,7 @@ WomenTechWomenYes (WTWY) wants to place street teams at entrances to subway stat
 ## Approach
 Firsly, capture the largest potential audience for Gala signups. Then, focus on the audience most aligned with WomenTechWomenYes’s mission statement.
 
-Leverage MTA subway data to determine high traffic areas: Evaluate subway entries in the morning (6AM - 2PM) and evening exits (2PM - 10PM) to gauge neighborhood activity. Weight the stations by the relative income of the zip code to determine best interested audience. Further refine the data by identifying peak commute times across the weekday to minimize wasted efforts for canvassing.
+Leverage MTA subway data to determine high traffic areas: Evaluate subway entries in the morning (6AM - 2PM) and evening exits (2PM - 10PM) from May 27, 2017 to June 24, 2017 to gauge neighborhood activity. Weight the stations by the relative income of the zip code to determine best interested audience. Further refine the data by identifying peak commute times across the weekday to minimize wasted efforts for canvassing.
 
 ### Entries at Busiest Stations
 ![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/entries.png)
@@ -12,5 +12,22 @@ Leverage MTA subway data to determine high traffic areas: Evaluate subway entrie
 ### Exits at Busiest Stations
 ![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/exits.png)
 
-https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/household_income_by_stations.png
+### Household Income by Stations
+![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/household_income_by_stations.png)
 
+### Transit Concentration
+![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/transit_concentraction.png)
+
+## Results
+#### Area 1: TriBeCa
+
+Median HH Income: $112,947
+
+Canvas at 3 Stations: World Trade Center, Chambers St, Cortlandt St
+
+### Area 2: FiDi
+
+Median HH Income: $101,868
+
+Canvas at 2 Stations: Wall St, Bowling Green
+Transit behavior is consistent across multiple stations
