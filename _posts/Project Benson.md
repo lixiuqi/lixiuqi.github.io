@@ -10,4 +10,4 @@ Leverage MTA subway data to determine high traffic areas: Evaluate subway entrie
 ![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/entries.png)
 
 ### Exits at Busiest Stations
-![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/entries.png)
+![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/exits.png)
