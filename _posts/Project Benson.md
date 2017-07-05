@@ -18,6 +18,10 @@ Leverage MTA subway data to determine high traffic areas: Evaluate subway entrie
 ### Transit Concentration
 ![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/transit_concentraction.png)
 
+https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/TriBeCa.png
+
+
+
 ## Results
 #### Area 1: TriBeCa
 
