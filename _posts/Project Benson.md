@@ -21,7 +21,7 @@ Leverage MTA subway data to determine high traffic areas: Evaluate subway entrie
 ### Rush Hour Heatmap
 ![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/TriBeCa.png)
 
-![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/FiDi.png
+![alt text](https://github.com/lixiuqi/lixiuqi.github.io/blob/master/images/FiDi.png)
 
 ## Results)
 
